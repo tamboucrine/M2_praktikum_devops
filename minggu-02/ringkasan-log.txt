@@ -1,0 +1,9 @@
+=== Ringkasan Analisis Log 2026-09-27 09:55:17 ===
+Total permintaan : 500
+--- Sebaran kode status ---
+    214 200
+     87 404
+     53 500
+     49 502
+     49 301
+     48 201
